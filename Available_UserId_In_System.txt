@@ -1,0 +1,19 @@
+5 userId are available in the system at present:
+------------------------------------------------
+
+1420
+8126
+3018
+9509
+5764
+
+Any userId entered other than these will throw an exception (UserNotPresentException) that will be caught and displayed as alert to select a different ID
+
+And user gets re-directed to home page again.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JUnit Test:
+-----------
+
+Testing done for - UserId presence in the system
